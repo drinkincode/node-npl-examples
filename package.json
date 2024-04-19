@@ -1,0 +1,16 @@
+{
+  "name": "npl-examples",
+  "version": "1.0.0",
+  "description": "npl",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ML",
+    "npl",
+    "node"
+  ],
+  "author": "drinkincode",
+  "license": "ISC"
+}
